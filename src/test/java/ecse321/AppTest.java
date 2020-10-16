@@ -15,16 +15,9 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( true );
+        assertTrue( false );
     }
 
-
-    //Failing test
-    @Test
-    public void shouldAnswerWithFalse()
-    {
-        assertFalse( true );
-    }
 
 
 }
